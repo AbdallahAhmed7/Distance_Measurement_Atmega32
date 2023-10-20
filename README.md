@@ -5,8 +5,8 @@ The project is implemented via AVR atmega32 MCU with 8 MHz internal clock freque
 
 Designed based on the layered architecture model as follows:
 
-▪Application layer
+▪Application layer.
 
-▪HAL: LCD, HC-SRO4 Ultrasonic Sensor
+▪HAL: LCD, HC-SRO4 Ultrasonic Sensor.
 
-▪MCAL: GPIO , ICU
+▪MCAL: GPIO , ICU.
